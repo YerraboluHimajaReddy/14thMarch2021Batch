@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-19T19:30:53 IST" name="Default suite" finished-at="2022-05-19T19:31:05 IST" duration-ms="12671">
+    <groups>
+    </groups>
+    <test started-at="2022-05-19T19:30:53 IST" name="Default test" finished-at="2022-05-19T19:31:05 IST" duration-ms="12671">
+      <class name="Pages.TestNGExamplek">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Pages.TestNGExamplek@49049a04]" started-at="2022-05-19T19:30:49 IST" name="launchBrowser" finished-at="2022-05-19T19:30:53 IST" duration-ms="3687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="waitSometime()[pri:0, instance:Pages.TestNGExamplek@49049a04]" started-at="2022-05-19T19:30:53 IST" name="waitSometime" finished-at="2022-05-19T19:30:53 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitSometime -->
+        <test-method signature="login()[pri:1, instance:Pages.TestNGExamplek@49049a04]" started-at="2022-05-19T19:30:53 IST" name="login" finished-at="2022-05-19T19:30:59 IST" duration-ms="6329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="waitSometime1()[pri:0, instance:Pages.TestNGExamplek@49049a04]" started-at="2022-05-19T19:30:59 IST" name="waitSometime1" finished-at="2022-05-19T19:31:00 IST" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitSometime1 -->
+        <test-method is-config="true" signature="waitSometime()[pri:0, instance:Pages.TestNGExamplek@49049a04]" started-at="2022-05-19T19:31:00 IST" name="waitSometime" finished-at="2022-05-19T19:31:00 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitSometime -->
+        <test-method signature="enterUsername()[pri:2, instance:Pages.TestNGExamplek@49049a04]" started-at="2022-05-19T19:31:00 IST" name="enterUsername" finished-at="2022-05-19T19:31:00 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUsername -->
+        <test-method is-config="true" signature="waitSometime1()[pri:0, instance:Pages.TestNGExamplek@49049a04]" started-at="2022-05-19T19:31:00 IST" name="waitSometime1" finished-at="2022-05-19T19:31:00 IST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitSometime1 -->
+        <test-method is-config="true" signature="waitSometime()[pri:0, instance:Pages.TestNGExamplek@49049a04]" started-at="2022-05-19T19:31:00 IST" name="waitSometime" finished-at="2022-05-19T19:31:00 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitSometime -->
+        <test-method signature="enterPassword()[pri:3, instance:Pages.TestNGExamplek@49049a04]" started-at="2022-05-19T19:31:00 IST" name="enterPassword" finished-at="2022-05-19T19:31:00 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterPassword -->
+        <test-method is-config="true" signature="waitSometime1()[pri:0, instance:Pages.TestNGExamplek@49049a04]" started-at="2022-05-19T19:31:00 IST" name="waitSometime1" finished-at="2022-05-19T19:31:05 IST" duration-ms="5439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitSometime1 -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Pages.TestNGExamplek@49049a04]" started-at="2022-05-19T19:31:06 IST" name="logout" finished-at="2022-05-19T19:31:07 IST" duration-ms="1013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- Pages.TestNGExamplek -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
